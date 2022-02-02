@@ -1,4 +1,4 @@
-## Para Rodar o projeto escreva os seguintes comandos em sequencia no terminal apos baixar o codigo.
+## Para rodar o projeto escreva os seguintes comandos em sequencia no terminal na pasta principal apos baixar o codigo.
 1. yarn.
 2. yarn start.
 
