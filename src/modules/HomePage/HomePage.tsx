@@ -53,6 +53,7 @@ export default function HomePage() {
 
   useEffect(() => {
     if (searchValue.length === 0) {
+      setOffset(0);
       listPokemons();
     }
   }, [offset, listPokemons, searchValue]);
