@@ -1,3 +1,14 @@
+## para Rodar o projeto escreva os seguintes comandos em sequencia no terminal apos baixar o codigo.
+1. yarn.
+2. yarn start.
+
+
+OBS: O node deve estar instalado na maquina, alterei o layout para contextualizar melhor com o tema de pokemons.
+
+Att
+
+João Cotta Badaró
+
 # Avaliação Pleno
 Olá desenvolvedor!\
 Tudo bem?! 😊\
